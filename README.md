@@ -4,4 +4,7 @@ Microservice made during the `Spring Boot y Spring Cloud: arquitectura de micros
 
 ## What I've learned
 
-- Spring Tools 4 usage.
+- Using Spring Tools 4 to create a Spring project.
+- Using annotations to create controllers and handler methods.
+- Using properties for customizing the project's setting.
+- Make a handler method that returns JSON data.
